@@ -1,0 +1,17 @@
+.caixa_width{
+    /* espessura/tipo de cor=widht,style,color */
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    border: 2px solid red;
+}
+.imagem_width{
+ width: 400px;
+}
+.caixa_height{
+    border: 1px dashed green;
+    height: 100px;
+    width: 100px;
+
+}
+
